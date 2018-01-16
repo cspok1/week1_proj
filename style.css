@@ -1,0 +1,56 @@
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+}
+#company-name{
+	color:white;
+}
+#features,#headline-message,#message{
+	color:grey;
+	text-align:center;
+}
+#message{
+	background-color: rgb(238,242,245)
+}
+#price{
+	text-align:center;
+}
+#style-white{
+	text-align:center;
+	color:white;
+}
+.img-circle{
+	border-radius:20%;
+}
+#ceo{
+	text-align:center;
+}
+#stay{
+	text-align:center;
+	padding:auto;
+	height:200px;
+	margin:50px auto;
+}
+#box0{
+	background-color:black;
+}
+.textwhite{
+	color:white;
+}
+#banner hr{
+	width:100px;
+	border-color:white;
+	height:1px;
+}
+#banner{
+	margin-bottom:30px;
+}
+h5{
+	color:white;
+}
